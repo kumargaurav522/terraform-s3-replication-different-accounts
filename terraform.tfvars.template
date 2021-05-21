@@ -1,0 +1,6 @@
+source_region = "us-east-1"
+source_profile = "acctA-source"
+source_account = "92XXXXXXXXXX"
+dest_region = "ap-south-1"
+dest_profile = "acctB-destination"
+dest_account = "32XXXXXXXXX"
